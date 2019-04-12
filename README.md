@@ -1,3 +1,3 @@
 # blog-post
 
-https://wilkyway901.github.io
+https://wilkyway901.github.io/blog-post
